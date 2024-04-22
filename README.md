@@ -8,5 +8,6 @@ Conteúdo com base na seção de HTML e CSS do curso de JS/TS do professor Luiz 
 </div>
 
 A página está hospedada no Netlify.
+
 Contribuições são bem-vindas! Sinta-se à vontade para enviar suas sugestões e pull requests.
 
