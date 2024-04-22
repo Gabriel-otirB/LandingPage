@@ -7,7 +7,6 @@ Conteúdo com base na seção de HTML e CSS do curso de JS/TS do professor Luiz 
 <img src="https://github.com/Gabriel-otirB/LandingPage/assets/129015857/5f572121-fd7e-4a1e-ae55-aa00d0019c9a" width="1200px" />
 </div>
 
-A página está hospedada no Netlify. Para visualizá-la, clique acesse: 
-
+A página está hospedada no Netlify.
 Contribuições são bem-vindas! Sinta-se à vontade para enviar suas sugestões e pull requests.
 
