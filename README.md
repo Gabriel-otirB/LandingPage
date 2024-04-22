@@ -4,7 +4,7 @@ Este repositório contém o código fonte de uma landing page desenvolvida apena
 Conteúdo com base na seção de HTML e CSS do curso de JS/TS do professor Luiz Otávio Miranda, na Udemy.
 
 <div align="center">
-<img src="![LandingPage-ezgif com-cut](https://github.com/Gabriel-otirB/LandingPage/assets/129015857/5f572121-fd7e-4a1e-ae55-aa00d0019c9a)" width="800px" />
+<img src="![LandingPage-ezgif com-cut](https://github.com/Gabriel-otirB/LandingPage/assets/129015857/5f572121-fd7e-4a1e-ae55-aa00d0019c9a)" width="300px" />
 </div>
 
 A página está hospedada no Netlify. Para visualizá-la, clique acesse: 
